@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    background-color: beige;
+   
+    
+}
+img{
+    background-color:none;
+    height: 300px;
+    width: 300px;
+    border-radius: none;   
+    align-items: center;
+    margin-top: 0.3in;
+    margin-bottom:0.3in;
+    border: black;
+}
+
+
+
+h1 {color:black;
+    margin-left: 0.5in;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+p{
+font-family: cursive;
+color: rgb(247, 255, 240);
+text-align: center;
+font-size: x-large%;
+
+}
+div {
+  height: 50px;
+  width: 100%;
+  border: 1px solid #4CAF50;
+}
+a{
+ text-decoration: none;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ color: blue;
+ text-align: center;
+ font-size: xx-large;
+}
+a:hover {
+    background-color: yellow;
+  }
+
+.nav{
+    color: white;
+    overflow: hidden;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: black;
+   text-align: center;
+}
+.myDiv {
+  border: none;    
+  text-align: center;
+  margin-bottom: 0.5in;
+  height: 50px;
+    align-items: center;
+}
+
+div {
+  height: px;
+  color: black;
+  border: 1px solid #4CAF
+}
+.ul{
+list-style-type: none1;
+margin: 0;
+padding: 01;
+overflow: hidden1;
+background-color: none;
+list-style: none;
+align-items: center;
+text-align: center;
+align-content: center;
+
+}
+
+.li {
+    float: left;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    background-color: none;   
+    padding: 5px;
+    text-align: center;
+
+}
+
+.li a{
+    display: flexbox ;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 175px;
+    width: 70%;
+   font-family: monospace;
+   margin-bottom: 5in;
+}
+
+.li a:hover:not(activate){
+    background-color:#FFC0CB;
+}
+.li a.activate{
+    color: white;
+    background-color: black;
+}
+.img :hover:not(activate){
+    background-color:#FFC0CB;
+}
